@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MY DEAR', 'ARE YOU', 'LOOKING', 'AT THE', 'SAME STAR', 'WITH ME ?', 'I MISS YOU']
+  let texts = ['After everything', 'It is hard to', 'Say anything more', 'But the moon', 'is always there', 'Thank You', 'For everything']
 
   let canvas,
     ctx,
