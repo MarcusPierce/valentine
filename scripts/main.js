@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['Thank You', 'For everything']
+  let texts = ["Fuck You", "You've changed"]
 
   let canvas,
     ctx,
